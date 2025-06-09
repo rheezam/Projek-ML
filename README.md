@@ -5,3 +5,5 @@ Panduan:
 2. pingpunk merupakan file inti gamenya
 3. norman merupakan menu ketika menang
 4. pongky merupakan menu ketika salah
+
+game ini dibuat oleh, Affan Norman Prasetyo, Abdul Raffi Anindy, Azriel Muhammad Wiradinata, Rheezam Ahnaf Handono
